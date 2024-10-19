@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\frmPrincipal\bin\Debug\net8.0-windows\frmPrincipal.exe
+C:\Users\felip\source\repos\frmPrincipal\bin\Debug\net8.0-windows\frmPrincipal.deps.json
+C:\Users\felip\source\repos\frmPrincipal\bin\Debug\net8.0-windows\frmPrincipal.runtimeconfig.json
+C:\Users\felip\source\repos\frmPrincipal\bin\Debug\net8.0-windows\frmPrincipal.dll
+C:\Users\felip\source\repos\frmPrincipal\bin\Debug\net8.0-windows\frmPrincipal.pdb
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.Form1.resources
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.AssemblyInfo.cs
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.dll
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\refint\frmPrincipal.dll
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.pdb
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\frmPrincipal.genruntimeconfig.cache
+C:\Users\felip\source\repos\frmPrincipal\obj\Debug\net8.0-windows\ref\frmPrincipal.dll
